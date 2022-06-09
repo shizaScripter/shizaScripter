@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on Discord To Roblox Bot
 - 🌱 I’m currently learning JavaScript and LuaC
+
+![alt text](https://imgur.com/a/q2ODgsQ)
 <!--
 **shizaScripter/shizaScripter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
